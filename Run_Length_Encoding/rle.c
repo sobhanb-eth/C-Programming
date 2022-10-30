@@ -1,4 +1,4 @@
-//SOBHAN BAHRAMI - EDNQOR - ASSIGNMENT 5
+//SOBHAN BAHRAMI
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

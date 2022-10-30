@@ -1,4 +1,4 @@
-//SOBHAN BAHRAMI - EDNQOR - ASSIGNMENT 6
+//SOBHAN BAHRAMI
 #ifndef QUEUE_H
 #define QUEUE_H
 #include <stdbool.h>

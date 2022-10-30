@@ -1,4 +1,4 @@
-//SOBHAN BAHRAMI - EDNQOR - ASSIGNMENT 5
+//SOBHAN BAHRAMI
 #include <stdio.h>
 #include "rle.h"
 

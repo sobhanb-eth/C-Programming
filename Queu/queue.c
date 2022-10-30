@@ -1,4 +1,4 @@
-//SOBHAN BAHRAMI - EDNQOR - ASSIGNMENT 6
+//SOBHAN BAHRAMI
 #include <stdlib.h>
 #include <stdio.h>
 #include "queue.h"
