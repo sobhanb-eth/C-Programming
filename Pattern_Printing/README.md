@@ -2,11 +2,12 @@
 Print out the two half pyramids from the first two levels of Mario! Their size should be read from the stand input with scanf.
 
 For example if the input is 4, the output should be:
-
+```
    X  X
   XX  XX
  XXX  XXX
 XXXX  XXXX
+```
 parameters:
 
 there two spaces between the half pyramids in each line
